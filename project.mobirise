@@ -34,7 +34,13 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 8,
     "versionPublish": "4.11.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/82-824818-open-window-icon-open-window-clipart-black-and-128x121.png",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
